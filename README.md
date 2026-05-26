@@ -8,7 +8,7 @@ The notebook analyzes emotional text with emojis and classifies sentiments into:
 - Negative 😔
 - Neutral 😐
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python
 - Pandas
 - NumPy
